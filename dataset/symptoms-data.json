@@ -1,0 +1,536 @@
+{
+    "data": [
+        {
+            "id": "001",
+            "name": "abdominal_pain"
+        },
+        {
+            "id": "002",
+            "name": "abnormal_menstruation"
+        },
+        {
+            "id": "003",
+            "name": "acidity"
+        },
+        {
+            "id": "004",
+            "name": "acute_liver_failure"
+        },
+        {
+            "id": "005",
+            "name": "altered_sensorium"
+        },
+        {
+            "id": "006",
+            "name": "anxiety"
+        },
+        {
+            "id": "007",
+            "name": "back_pain"
+        },
+        {
+            "id": "008",
+            "name": "belly_pain"
+        },
+        {
+            "id": "009",
+            "name": "blackheads"
+        },
+        {
+            "id": "010",
+            "name": "bladder_discomfort"
+        },
+        {
+            "id": "011",
+            "name": "blister"
+        },
+        {
+            "id": "012",
+            "name": "blood_in_sputum"
+        },
+        {
+            "id": "013",
+            "name": "bloody_stool"
+        },
+        {
+            "id": "014",
+            "name": "blurred_and_distorted_vision"
+        },
+        {
+            "id": "015",
+            "name": "breathlessness"
+        },
+        {
+            "id": "016",
+            "name": "brittle_nails"
+        },
+        {
+            "id": "017",
+            "name": "bruising"
+        },
+        {
+            "id": "018",
+            "name": "burning_micturition"
+        },
+        {
+            "id": "019",
+            "name": "chest_pain"
+        },
+        {
+            "id": "020",
+            "name": "chills"
+        },
+        {
+            "id": "021",
+            "name": "cold_hands_and_feets"
+        },
+        {
+            "id": "022",
+            "name": "coma"
+        },
+        {
+            "id": "023",
+            "name": "congestion"
+        },
+        {
+            "id": "024",
+            "name": "constipation"
+        },
+        {
+            "id": "025",
+            "name": "continuous_feel_of_urine"
+        },
+        {
+            "id": "026",
+            "name": "continuous_sneezing"
+        },
+        {
+            "id": "027",
+            "name": "cough"
+        },
+        {
+            "id": "028",
+            "name": "cramps"
+        },
+        {
+            "id": "029",
+            "name": "dark_urine"
+        },
+        {
+            "id": "030",
+            "name": "dehydration"
+        },
+        {
+            "id": "031",
+            "name": "depression"
+        },
+        {
+            "id": "032",
+            "name": "diarrhoea"
+        },
+        {
+            "id": "033",
+            "name": "dischromic_patches"
+        },
+        {
+            "id": "034",
+            "name": "distention_of_abdomen"
+        },
+        {
+            "id": "035",
+            "name": "dizziness"
+        },
+        {
+            "id": "036",
+            "name": "drying_and_tingling_lips"
+        },
+        {
+            "id": "037",
+            "name": "enlarged_thyroid"
+        },
+        {
+            "id": "038",
+            "name": "excessive_hunger"
+        },
+        {
+            "id": "039",
+            "name": "extra_marital_contacts"
+        },
+        {
+            "id": "040",
+            "name": "family_history"
+        },
+        {
+            "id": "041",
+            "name": "fast_heart_rate"
+        },
+        {
+            "id": "042",
+            "name": "fatigue"
+        },
+        {
+            "id": "043",
+            "name": "fluid_overload"
+        },
+        {
+            "id": "044",
+            "name": "fluid_overload"
+        },
+        {
+            "id": "045",
+            "name": "foul_smell_ofurine"
+        },
+        {
+            "id": "046",
+            "name": "headache"
+        },
+        {
+            "id": "047",
+            "name": "high_fever"
+        },
+        {
+            "id": "048",
+            "name": "hip_joint_pain"
+        },
+        {
+            "id": "049",
+            "name": "history_of_alcohol_consumption"
+        },
+        {
+            "id": "050",
+            "name": "increased_appetite"
+        },
+        {
+            "id": "051",
+            "name": "indigestion"
+        },
+        {
+            "id": "052",
+            "name": "inflammatory_nails"
+        },
+        {
+            "id": "053",
+            "name": "internal_itching"
+        },
+        {
+            "id": "054",
+            "name": "irregular_sugar_level"
+        },
+        {
+            "id": "055",
+            "name": "irritability"
+        },
+        {
+            "id": "056",
+            "name": "irritation_in_anus"
+        },
+        {
+            "id": "057",
+            "name": "itching"
+        },
+        {
+            "id": "058",
+            "name": "joint_pain"
+        },
+        {
+            "id": "059",
+            "name": "knee_pain"
+        },
+        {
+            "id": "060",
+            "name": "lack_of_concentration"
+        },
+        {
+            "id": "061",
+            "name": "lethargy"
+        },
+        {
+            "id": "062",
+            "name": "loss_of_appetite"
+        },
+        {
+            "id": "063",
+            "name": "loss_of_balance"
+        },
+        {
+            "id": "064",
+            "name": "loss_of_smell"
+        },
+        {
+            "id": "065",
+            "name": "malaise"
+        },
+        {
+            "id": "066",
+            "name": "mild_fever"
+        },
+        {
+            "id": "067",
+            "name": "mood_swings"
+        },
+        {
+            "id": "068",
+            "name": "movement_stiffness"
+        },
+        {
+            "id": "069",
+            "name": "mucoid_sputum"
+        },
+        {
+            "id": "070",
+            "name": "muscle_pain"
+        },
+        {
+            "id": "071",
+            "name": "muscle_wasting"
+        },
+        {
+            "id": "072",
+            "name": "muscle_weakness"
+        },
+        {
+            "id": "073",
+            "name": "nausea"
+        },
+        {
+            "id": "074",
+            "name": "neck_pain"
+        },
+        {
+            "id": "075",
+            "name": "nodal_skin_eruptions"
+        },
+        {
+            "id": "076",
+            "name": "obesity"
+        },
+        {
+            "id": "077",
+            "name": "pain_behind_the_eyes"
+        },
+        {
+            "id": "078",
+            "name": "pain_during_bowel_movements"
+        },
+        {
+            "id": "079",
+            "name": "pain_in_anal_region"
+        },
+        {
+            "id": "080",
+            "name": "painful_walking"
+        },
+        {
+            "id": "081",
+            "name": "palpitations"
+        },
+        {
+            "id": "082",
+            "name": "passage_of_gases"
+        },
+        {
+            "id": "083",
+            "name": "patches_in_throat"
+        },
+        {
+            "id": "084",
+            "name": "phlegm"
+        },
+        {
+            "id": "085",
+            "name": "polyuria"
+        },
+        {
+            "id": "086",
+            "name": "prognosis"
+        },
+        {
+            "id": "087",
+            "name": "prominent_veins_on_calf"
+        },
+        {
+            "id": "088",
+            "name": "puffy_face_and_eyes"
+        },
+        {
+            "id": "089",
+            "name": "pus_filled_pimples"
+        },
+        {
+            "id": "090",
+            "name": "receiving_blood_transfusion"
+        },
+        {
+            "id": "091",
+            "name": "receiving_unsterile_injections"
+        },
+        {
+            "id": "092",
+            "name": "red_sore_around_nose"
+        },
+        {
+            "id": "093",
+            "name": "red_spots_over_body"
+        },
+        {
+            "id": "094",
+            "name": "redness_of_eyes"
+        },
+        {
+            "id": "095",
+            "name": "restlessness"
+        },
+        {
+            "id": "096",
+            "name": "runny_nose"
+        },
+        {
+            "id": "097",
+            "name": "rusty_sputum"
+        },
+        {
+            "id": "098",
+            "name": "scurring"
+        },
+        {
+            "id": "099",
+            "name": "shivering"
+        },
+        {
+            "id": "100",
+            "name": "silver_like_dusting"
+        },
+        {
+            "id": "101",
+            "name": "sinus_pressure"
+        },
+        {
+            "id": "102",
+            "name": "skin_peeling"
+        },
+        {
+            "id": "103",
+            "name": "skin_rash"
+        },
+        {
+            "id": "104",
+            "name": "slurred_speech"
+        },
+        {
+            "id": "105",
+            "name": "small_dents_in_nails"
+        },
+        {
+            "id": "106",
+            "name": "spinning_movements"
+        },
+        {
+            "id": "107",
+            "name": "spotting_urination"
+        },
+        {
+            "id": "108",
+            "name": "stiff_neck"
+        },
+        {
+            "id": "109",
+            "name": "stomach_bleeding"
+        },
+        {
+            "id": "110",
+            "name": "stomach_pain"
+        },
+        {
+            "id": "111",
+            "name": "sunken_eyes"
+        },
+        {
+            "id": "112",
+            "name": "sweating"
+        },
+        {
+            "id": "113",
+            "name": "swelled_lymph_nodes"
+        },
+        {
+            "id": "114",
+            "name": "swelling_joints"
+        },
+        {
+            "id": "115",
+            "name": "swelling_of_stomach"
+        },
+        {
+            "id": "116",
+            "name": "swollen_blood_vessels"
+        },
+        {
+            "id": "117",
+            "name": "swollen_extremeties"
+        },
+        {
+            "id": "118",
+            "name": "swollen_legs"
+        },
+        {
+            "id": "119",
+            "name": "throat_irritation"
+        },
+        {
+            "id": "120",
+            "name": "toxic_look_(typhos)"
+        },
+        {
+            "id": "121",
+            "name": "ulcers_on_tongue"
+        },
+        {
+            "id": "122",
+            "name": "unsteadiness"
+        },
+        {
+            "id": "123",
+            "name": "visual_disturbances"
+        },
+        {
+            "id": "124",
+            "name": "vomiting"
+        },
+        {
+            "id": "125",
+            "name": "watering_from_eyes"
+        },
+        {
+            "id": "126",
+            "name": "weakness_in_limbs"
+        },
+        {
+            "id": "127",
+            "name": "weakness_of_one_body_side"
+        },
+        {
+            "id": "128",
+            "name": "weight_gain"
+        },
+        {
+            "id": "129",
+            "name": "weight_loss"
+        },
+        {
+            "id": "130",
+            "name": "yellow_crust_ooze"
+        },
+        {
+            "id": "131",
+            "name": "yellow_urine"
+        },
+        {
+            "id": "132",
+            "name": "yellowing_of_eyes"
+        },
+        {
+            "id": "133",
+            "name": "yellowish_skin"
+        }
+    ]
+}
