@@ -1,5 +1,5 @@
 # symptom-disease-api
-An API for finding disease by its symptoms, using AWS Api gateway, Lambda functions and Dynamodb.
+An API for finding disease by its symptoms, using Aws API gateway, Lambda functions and DynamoDB.
 
 ## System diagram
 
