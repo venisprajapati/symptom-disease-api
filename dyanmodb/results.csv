@@ -1,0 +1,175 @@
+PK,SK,d_name,description,precautions,symptom_id,symptoms
+SYM,1,abdominal_pain,,,,
+SYM,2,abnormal_menstruation,,,,
+SYM,3,acidity,,,,
+SYM,4,acute_liver_failure,,,,
+SYM,5,altered_sensorium,,,,
+SYM,6,anxiety,,,,
+SYM,7,back_pain,,,,
+SYM,8,belly_pain,,,,
+SYM,9,blackheads,,,,
+SYM,10,bladder_discomfort,,,,
+SYM,11,blister,,,,
+SYM,12,blood_in_sputum,,,,
+SYM,13,bloody_stool,,,,
+SYM,14,blurred_and_distorted_vision,,,,
+SYM,15,breathlessness,,,,
+SYM,16,brittle_nails,,,,
+SYM,17,bruising,,,,
+SYM,18,burning_micturition,,,,
+SYM,19,chest_pain,,,,
+SYM,20,chills,,,,
+SYM,21,cold_hands_and_feets,,,,
+SYM,22,coma,,,,
+SYM,23,congestion,,,,
+SYM,24,constipation,,,,
+SYM,25,continuous_feel_of_urine,,,,
+SYM,26,continuous_sneezing,,,,
+SYM,27,cough,,,,
+SYM,28,cramps,,,,
+SYM,29,dark_urine,,,,
+SYM,30,dehydration,,,,
+SYM,31,depression,,,,
+SYM,32,diarrhoea,,,,
+SYM,33,dischromic_patches,,,,
+SYM,34,distention_of_abdomen,,,,
+SYM,35,dizziness,,,,
+SYM,36,drying_and_tingling_lips,,,,
+SYM,37,enlarged_thyroid,,,,
+SYM,38,excessive_hunger,,,,
+SYM,39,extra_marital_contacts,,,,
+SYM,40,family_history,,,,
+SYM,41,fast_heart_rate,,,,
+SYM,42,fatigue,,,,
+SYM,43,fluid_overload,,,,
+SYM,44,fluid_overload,,,,
+SYM,45,foul_smell_ofurine,,,,
+SYM,46,headache,,,,
+SYM,47,high_fever,,,,
+SYM,48,hip_joint_pain,,,,
+SYM,49,history_of_alcohol_consumption,,,,
+SYM,50,increased_appetite,,,,
+SYM,51,indigestion,,,,
+SYM,52,inflammatory_nails,,,,
+SYM,53,internal_itching,,,,
+SYM,54,irregular_sugar_level,,,,
+SYM,55,irritability,,,,
+SYM,56,irritation_in_anus,,,,
+SYM,57,itching,,,,
+SYM,58,joint_pain,,,,
+SYM,59,knee_pain,,,,
+SYM,60,lack_of_concentration,,,,
+SYM,61,lethargy,,,,
+SYM,62,loss_of_appetite,,,,
+SYM,63,loss_of_balance,,,,
+SYM,64,loss_of_smell,,,,
+SYM,65,malaise,,,,
+SYM,66,mild_fever,,,,
+SYM,67,mood_swings,,,,
+SYM,68,movement_stiffness,,,,
+SYM,69,mucoid_sputum,,,,
+SYM,70,muscle_pain,,,,
+SYM,71,muscle_wasting,,,,
+SYM,72,muscle_weakness,,,,
+SYM,73,nausea,,,,
+SYM,74,neck_pain,,,,
+SYM,75,nodal_skin_eruptions,,,,
+SYM,76,obesity,,,,
+SYM,77,pain_behind_the_eyes,,,,
+SYM,78,pain_during_bowel_movements,,,,
+SYM,79,pain_in_anal_region,,,,
+SYM,80,painful_walking,,,,
+SYM,81,palpitations,,,,
+SYM,82,passage_of_gases,,,,
+SYM,83,patches_in_throat,,,,
+SYM,84,phlegm,,,,
+SYM,85,polyuria,,,,
+SYM,86,prognosis,,,,
+SYM,87,prominent_veins_on_calf,,,,
+SYM,88,puffy_face_and_eyes,,,,
+SYM,89,pus_filled_pimples,,,,
+SYM,90,receiving_blood_transfusion,,,,
+SYM,91,receiving_unsterile_injections,,,,
+SYM,92,red_sore_around_nose,,,,
+SYM,93,red_spots_over_body,,,,
+SYM,94,redness_of_eyes,,,,
+SYM,95,restlessness,,,,
+SYM,96,runny_nose,,,,
+SYM,97,rusty_sputum,,,,
+SYM,98,scurring,,,,
+SYM,99,shivering,,,,
+SYM,100,silver_like_dusting,,,,
+SYM,101,sinus_pressure,,,,
+SYM,102,skin_peeling,,,,
+SYM,103,skin_rash,,,,
+SYM,104,slurred_speech,,,,
+SYM,105,small_dents_in_nails,,,,
+SYM,106,spinning_movements,,,,
+SYM,107,spotting_urination,,,,
+SYM,108,stiff_neck,,,,
+SYM,109,stomach_bleeding,,,,
+SYM,110,stomach_pain,,,,
+SYM,111,sunken_eyes,,,,
+SYM,112,sweating,,,,
+SYM,113,swelled_lymph_nodes,,,,
+SYM,114,swelling_joints,,,,
+SYM,115,swelling_of_stomach,,,,
+SYM,116,swollen_blood_vessels,,,,
+SYM,117,swollen_extremeties,,,,
+SYM,118,swollen_legs,,,,
+SYM,119,throat_irritation,,,,
+SYM,120,toxic_look_(typhos),,,,
+SYM,121,ulcers_on_tongue,,,,
+SYM,122,unsteadiness,,,,
+SYM,123,visual_disturbances,,,,
+SYM,124,vomiting,,,,
+SYM,125,watering_from_eyes,,,,
+SYM,126,weakness_in_limbs,,,,
+SYM,127,weakness_of_one_body_side,,,,
+SYM,128,weight_gain,,,,
+SYM,129,weight_loss,,,,
+SYM,130,yellow_crust_ooze,,,,
+SYM,131,yellow_urine,,,,
+SYM,132,yellowing_of_eyes,,,,
+SYM,133,yellowish_skin,,,,
+DIS,#uuid4#v1,diabetes,"Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy.","have balanced diet,exercise,consult doctor,follow up",#014#038#042#050#054#061#076#085#095#129,"fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria"
+DIS,#uuid4#v2,varicose_veins,"A vein that has enlarged and twisted, often appearing as a bulging, blue blood vessel that is clearly visible through the skin. Varicose veins are most common in older adults, particularly women, and occur especially on the legs.","lie down flat and raise the leg high,use oinments,use vein compression,dont stand still for long",#017#028#042#076#087#116#118,"fatigue,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf"
+DIS,#uuid4#v3,chronic_cholestasis,"Chronic cholestatic diseases, whether occurring in infancy, childhood or adulthood, are characterized by defective bile acid transport from the liver to the intestine, which is caused by primary damage to the biliary epithelium in most cases","cold baths,anti itch medicine,consult doctor,eat healthy",#001#057#062#073#124#132#133,"itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes"
+DIS,#uuid4#v4,hepatitis_a,Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus. The virus is one of several types of hepatitis viruses that cause inflammation and affect your liver's ability to function.,"Consult nearest hospital,wash hands through,avoid fatty spicy food,medication",#001#029#032#058#062#066#070#073#124#132#133,"joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain"
+DIS,#uuid4#v5,hepatitis_d,"Hepatitis D, also known as the hepatitis delta virus, is an infection that causes the liver to become inflamed. This swelling can impair liver function and cause long-term liver problems, including liver scarring and cancer. The condition is caused by the hepatitis D virus (HDV).","consult doctor,medication,eat healthy,follow up",#001#029#042#058#062#073#124#132#133,"joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes"
+DIS,#uuid4#v6,fungal_infection,"In humans, fungal infections occur when an invading fungus takes over an area of the body and is too much for the immune system to handle. Fungi can live in the air, soil, water, and plants. There are also some fungi that live naturally in the human body. Like many microbes, there are helpful fungi and harmful fungi.","bath twice,use detol or neem in bathing water,keep infected area dry,use clean cloths",#033#057#075#103,"itching,skin_rash,nodal_skin_eruptions,dischromic_patches"
+DIS,#uuid4#v7,tuberculosis,"Tuberculosis (TB) is an infectious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria. Tuberculosis generally affects the lungs, but can also affect other parts of the body. Most infections show no symptoms, in which case it is known as latent tuberculosis.","cover mouth,consult doctor,medication,rest",#012#015#019#020#027#042#047#062#065#066#084#112#113#124#129#132,"chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes,malaise,phlegm,chest_pain,blood_in_sputum"
+DIS,#uuid4#v8,pneumonia,"Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe.","consult doctor,medication,rest,follow up",#015#019#020#027#041#042#047#065#084#097#112,"chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,chest_pain,fast_heart_rate,rusty_sputum,phlegm"
+DIS,#uuid4#v9,malaria,An infectious disease caused by protozoan parasites from the Plasmodium family that can be transmitted by the bite of the Anopheles mosquito or by a contaminated needle or transfusion. Falciparum malaria is the most deadly type.,"Consult nearest hospital,avoid oily food,avoid non veg food,keep mosquitos out",#020#032#046#047#070#073#112#124,"chills,vomiting,high_fever,sweating,headache,nausea,muscle_pain,diarrhoea"
+DIS,#uuid4#v10,impetigo,"Impetigo (im-puh-TIE-go) is a common and highly contagious skin infection that mainly affects infants and children. Impetigo usually appears as red sores on the face, especially around a child's nose and mouth, and on hands and feet. The sores burst and develop honey-colored crusts.","soak affected area in warm water,use antibiotics,remove scabs with wet compressed cloth,consult doctor",#011#047#092#103#130,"skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze"
+DIS,#uuid4#v11,dimorphic_hemorrhoids(piles),"Hemorrhoids, also spelled haemorrhoids, are vascular structures in the anal canal. In their ... Other names, Haemorrhoids, piles, hemorrhoidal disease .","avoid fatty spicy food,consume witch hazel,warm bath with epsom salt,consume alovera juice",#013#024#056#078#079,"constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus"
+DIS,#uuid4#v12,dengue,"an acute infectious disease caused by a flavivirus (species Dengue virus of the genus Flavivirus), transmitted by aedes mosquitoes, and characterized by headache, severe joint pain, and a rash. ��� called also breakbone fever, dengue ","drink papaya leaf juice,avoid fatty spicy food,keep mosquitos away,keep hydrated",#007#020#042#046#047#058#062#065#070#073#077#093#103#124,"skin_rash,chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,muscle_pain,red_spots_over_body,malaise"
+DIS,#uuid4#v13,aids,"Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV). By damaging your immune system, HIV interferes with your body's ability to fight infection and disease.","avoid open cuts,wear ppe if possible,consult doctor,follow up",#039#047#071#083,"muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts"
+DIS,#uuid4#v14,common_cold,"The common cold is a viral infection of your nose and throat (upper respiratory tract). It's usually harmless, although it might not feel that way. Many types of viruses can cause a common cold.","drink vitamin c rich drinks,take vapour,avoid cold food,keep fever in check",#019#020#023#026#027#042#046#047#064#065#070#084#094#096#101#113#119,"continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure,runny_nose,congestion,chest_pain,loss_of_smell,muscle_pain"
+DIS,#uuid4#v15,gastroenteritis,"Gastroenteritis is an inflammation of the digestive tract, particularly the stomach, and large and small intestines. Viral and bacterial gastroenteritis are intestinal infections associated with symptoms of diarrhea , abdominal cramps, nausea , and vomiting .","stop eating solid food for while,try taking small sips of water,rest,ease back into eating",#030#032#111#124,"vomiting,sunken_eyes,dehydration,diarrhoea"
+DIS,#uuid4#v16,hypoglycemia,Hypoglycemia is a condition in which your blood sugar (glucose) level is lower than normal. Glucose is your body's main energy source. Hypoglycemia is often related to diabetes treatment. But other drugs and a variety of conditions ��� many rare ��� can cause low blood sugar in people who don't ha,"lie down on side,check in pulse,drink sugary drinks,consult doctor",#006#014#036#038#042#046#055#073#081#104#112#124,"vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,slurred_speech,irritability,palpitations,drying_and_tingling_lips"
+DIS,#uuid4#v17,gerd,"Gastroesophageal reflux disease, or GERD, is a digestive disorder that affects the lower esophageal sphincter (LES), the ring of muscle between the esophagus and stomach. Many people, including pregnant women, suffer from heartburn or acid indigestion caused by GERD.","avoid fatty spicy food,avoid lying down after eating,maintain healthy weight,exercise",#003#019#027#110#121#124,"stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain"
+DIS,#uuid4#v18,acne,"Acne vulgaris is the formation of comedones, papules, pustules, nodules, and/or cysts as a result of obstruction and inflammation of pilosebaceous units (hair follicles and their accompanying sebaceous gland). Acne develops on the face and upper trunk. It most often affects adolescents.","bath twice,avoid fatty spicy food,drink plenty of water,avoid too many products",#009#089#098#103,"skin_rash,pus_filled_pimples,blackheads,scurring"
+DIS,#uuid4#v19,jaundice,"Yellow staining of the skin and sclerae (the whites of the eyes) by abnormally high blood levels of the bile pigment bilirubin. The yellowing extends to other tissues and body fluids. Jaundice was once called the """"morbus regius"""" (the regal disease) in the belief that only the touch of a king could cure it","drink plenty of water,consume milk thistle,eat fruits and high fiberous food,medication",#001#029#042#047#057#124#129#133,"itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine,abdominal_pain"
+DIS,#uuid4#v20,hepatitis_c,"Inflammation of the liver due to the hepatitis C virus (HCV), which is usually spread via blood transfusion (rare), hemodialysis, and needle sticks. The damage hepatitis C does to the liver can lead to cirrhosis and its complications as well as cancer.","Consult nearest hospital,vaccination,eat healthy,medication",#040#042#062#073#132#133,"fatigue,yellowish_skin,nausea,loss_of_appetite,family_history,yellowing_of_eyes"
+DIS,#uuid4#v21,migraine,"A migraine can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Migraine attacks can last for hours to days, and the pain can be so severe that it interferes with your daily activities.","meditation,reduce stress,use poloroid glasses in sun,consult doctor",#003#014#031#038#046#051#055#108#123,"acidity,indigestion,headache,blurred_and_distorted_vision,excessive_hunger,stiff_neck,depression,irritability,visual_disturbances"
+DIS,#uuid4#v22,paralysis_(brain_hemorrhage),"Intracerebral hemorrhage (ICH) is when blood suddenly bursts into brain tissue, causing damage to your brain. Symptoms usually appear suddenly during ICH. They include headache, weakness, confusion, and paralysis, particularly on one side of your body.","massage,eat healthy,exercise,consult doctor",#005#046#124#127,"vomiting,headache,weakness_of_one_body_side,altered_sensorium"
+DIS,#uuid4#v23,hepatitis_b,"Hepatitis B is an infection of your liver. It can cause scarring of the organ, liver failure, and cancer. It can be fatal if it isn't treated. It's spread when people come in contact with the blood, open sores, or body fluids of someone who has the hepatitis B virus.","consult nearest hospital,vaccination,eat healthy,medication",#001#029#042#057#061#062#065#090#091#131#132#133,"itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion,receiving_unsterile_injections"
+DIS,#uuid4#v24,paroymsal_positional_vertigo_(vertigo),Benign paroxysmal positional vertigo (BPPV) is one of the most common causes of vertigo ��� the sudden sensation that you're spinning or that the inside of your head is spinning. Benign paroxysmal positional vertigo causes brief episodes of mild to intense dizz,"lie down,avoid sudden change in body,avoid abrupt head movment,relax",#046#063#073#106#122#124,"vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness"
+DIS,#uuid4#v25,osteoarthristis,"Osteoarthritis is the most common form of arthritis, affecting millions of people worldwide. It occurs when the protective cartilage that cushions the ends of your bones wears down over time.","acetaminophen,consult nearest hospital,follow up,salt baths",#048#058#059#074#080#114,"joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking"
+DIS,#uuid4#v26,hypertension,"Hypertension (HTN or HT), also known as high blood pressure (HBP), is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure typically does not cause symptoms.","meditation,salt baths,reduce stress,get proper sleep",#019#035#046#060#063,"headache,chest_pain,dizziness,loss_of_balance,lack_of_concentration"
+DIS,#uuid4#v27,alcoholic_hepatitis,"Alcoholic hepatitis is a diseased, inflammatory condition of the liver caused by heavy alcohol consumption over an extended period of time. It's also aggravated by binge drinking and ongoing alcohol use. If you develop this condition, you must stop drinking alcohol","stop alcohol consumption,consult doctor,medication,follow up",#001#034#043#044#049#115#124#133,"vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload"
+DIS,#uuid4#v28,urinary_tract_infection,"Urinary tract infection: An infection of the kidney, ureter, bladder, or urethra. Abbreviated UTI. Not everyone with a UTI has symptoms, but common symptoms include a frequent urge to urinate and pain or burning when urinating.","drink plenty of water,increase vitamin c intake,drink cranberry juice,take probiotics",#010#018#025,"burning_micturition,bladder_discomfort,foul_smell_of urine,continuous_feel_of_urine"
+DIS,#uuid4#v29,cervical_spondylosis,"Cervical spondylosis is a general term for age-related wear and tear affecting the spinal disks in your neck. As the disks dehydrate and shrink, signs of osteoarthritis develop, including bony projections along the edges of bones (bone spurs).","use heating pad or cold pack,exercise,take otc pain reliver,consult doctor",#007#035#063#074#126,"back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance"
+DIS,#uuid4#v30,peptic_ulcer_diseae,"Peptic ulcer disease (PUD) is a break in the inner lining of the stomach, the first part of the small intestine, or sometimes the lower esophagus. An ulcer in the stomach is called a gastric ulcer, while one in the first part of the intestines is a duodenal ulcer.","avoid fatty spicy food,consume probiotic food,eliminate milk,limit alcohol",#001#051#053#062#082#124,"vomiting,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching,indigestion"
+DIS,#uuid4#v31,allergy,"An allergy is an immune system response to a foreign substance that's not typically harmful to your body.They can include certain foods, pollen, or pet dander. Your immune system's job is to keep you healthy by fighting harmful pathogens.","apply calamine,cover area with bandage,use ice to compress itching",#020#026#099#125,"continuous_sneezing,shivering,chills,watering_from_eyes"
+DIS,#uuid4#v32,chicken_pox,"Chickenpox is a highly contagious disease caused by the varicella-zoster virus (VZV). It can cause an itchy, blister-like rash. The rash first appears on the chest, back, and face, and then spreads over the entire body, causing between 250 and 500 itchy blisters.","use neem in bathing,consume neem leaves,take vaccine,avoid public places",#042#046#047#057#061#062#065#066#093#103#113,"itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body"
+DIS,#uuid4#v33,typhoid,"An acute illness characterized by fever caused by infection with the bacterium Salmonella typhi. Typhoid fever has an insidious onset, with fever, headache, constipation, malaise, chills, and muscle pain. Diarrhea is uncommon, and vomiting is not usually severe.","eat high calorie vegitables,antiboitic therapy,consult doctor,medication",#001#008#020#024#032#042#046#047#073#120#124,"chills,vomiting,fatigue,high_fever,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain,headache"
+DIS,#uuid4#v34,hyperthyroidism,"Hyperthyroidism (overactive thyroid) occurs when your thyroid gland produces too much of the hormone thyroxine. Hyperthyroidism can accelerate your body's metabolism, causing unintentional weight loss and a rapid or irregular heartbeat.","eat healthy,massage,use lemon balm,take radioactive iodine treatment",#002#032#038#041#042#055#067#072#095#112#129,"fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation"
+DIS,#uuid4#v35,drug_reaction,An adverse drug reaction (ADR) is an injury caused by taking medication. ADRs may occur following a single dose or prolonged administration of a drug or result from the combination of two or more drugs.,"stop irritation,consult nearest hospital,stop taking drug,follow up",#018#057#103#107#110,"itching,skin_rash,stomach_pain,burning_micturition,spotting_urination"
+DIS,#uuid4#v36,heart_attack,"The death of heart muscle due to the loss of blood supply. The loss of blood supply is usually caused by a complete blockage of a coronary artery, one of the arteries that supplies blood to the heart muscle.","call ambulance,chew or swallow asprin,keep calm",#015#019#112#124,"vomiting,breathlessness,sweating,chest_pain"
+DIS,#uuid4#v37,hypothyroidism,"Hypothyroidism, also called underactive thyroid or low thyroid, is a disorder of the endocrine system in which the thyroid gland does not produce enough thyroid hormone.","reduce stress,exercise,eat healthy,get proper sleep",#002#016#021#031#035#037#042#055#061#067#088#117#128,"fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties,depression,irritability,abnormal_menstruation"
+DIS,#uuid4#v38,psoriasis,"Psoriasis is a common skin disorder that forms thick, red, bumpy patches covered with silvery scales. They can pop up anywhere, but most appear on the scalp, elbows, knees, and lower back. Psoriasis can't be passed from person to person. It does sometimes happen in members of the same family.","wash hands with warm soapy water,stop bleeding using pressure,consult doctor,salt baths",#052#058#100#102#103#105,"skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails"
+DIS,#uuid4#v39,bronchial_asthma,"Bronchial asthma is a medical condition which causes the airway path of the lungs to swell and narrow. Due to this swelling, the air path produces excess mucus making it hard to breathe, which results in coughing, short breath, and wheezing. The disease is chronic and interferes with daily working.","switch to loose cloothing,take deep breaths,get away from trigger,seek help",#015#027#040#042#047#069,"fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum"
+DIS,#uuid4#v40,hepatitis_e,A rare form of liver inflammation caused by infection with the hepatitis E virus (HEV). It is transmitted via food or drink handled by an infected person or through infected water supplies in areas where fecal matter may get into the water. Hepatitis E does not cause chronic liver disease.,"stop alcohol consumption,rest,consult doctor,medication",#001#004#022#029#042#047#058#062#073#109#124#132#133,"joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,coma,stomach_bleeding,acute_liver_failure"
+DIS,#uuid4#v41,arthritis,"Arthritis is the swelling and tenderness of one or more of your joints. The main symptoms of arthritis are joint pain and stiffness, which typically worsen with age. The most common types of arthritis are osteoarthritis and rheumatoid arthritis.","exercise,use hot and cold therapy,try acupuncture,massage",#068#072#080#108#114,"muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking"
